@@ -1,0 +1,3 @@
+git branch -vv
+  bug-fix-typo f23a082 Fix typo
+* main         13ef347 [origin/main] Add bug-fix-revert output
