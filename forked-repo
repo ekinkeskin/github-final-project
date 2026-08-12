@@ -1,4 +1,4 @@
-curl https://api.github.com/repos/ekinkeskin/mcino-Introduction-to-Git-and-GitHub
+curl https://api.github.com/repos/ekinkeskin/github-final-project
 
 "fork": true,
 "parent": {
