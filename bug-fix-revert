@@ -1,0 +1,18 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10147
+
+"number": 10147,
+"title": "Fix typo",
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10147",
+"head": {
+  "label": "ekinkeskin:bug-fix-typo",
+  "ref": "bug-fix-typo",
+  "repo": {
+    "full_name": "ekinkeskin/mcino-Introduction-to-Git-and-GitHub"
+  }
+},
+"base": {
+  "label": "ibm-developer-skills-network:main",
+  "repo": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
